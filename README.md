@@ -1,0 +1,2 @@
+# Television_Control_Application
+ It is a television control application that I have created using object oriented programming logic and where operations such as opening an application, adding channels or turning on TV sound are performed. /  Nesne yönelimli programlama mantığını kullanarak oluşturduğum ve uygulama açma, kanal ekleme veya tv sesi açma gibi işlemlerin gerçekleştirildiği bir televizyon kumanda uygulamasıdır.
